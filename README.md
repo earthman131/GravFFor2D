@@ -2,6 +2,8 @@
 
 A wavenumber-domain approach for quasi 3-D forward modeling of gravity anomalies and gradients.
 
+Developed by Lianghui Guo.
+
 # Prerequisites
 
 The code being implemented in MATLAB, it requires the MATLAB software, which is licensed under the MathWorks sofware company. MATLAB can be downloaded at the following link https://www.mathworks.com/downloads/, and more information can be found about the license fee on the website.
@@ -20,7 +22,7 @@ Cui Y T, Guo L H. A wavenumber-domain iterative approach for rapid 3-D imagingof
 
 # License
 
-GMCurvature is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+GravFFor2D is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 # All rights reserved：
 
