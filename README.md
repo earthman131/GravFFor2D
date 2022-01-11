@@ -2,7 +2,7 @@
 
 A wavenumber-domain approach for quasi 3-D forward modeling of gravity anomalies and gradients.
 
-Developed by Lianghui Guo.
+Developed by Lianghui Guo and Yatong Cui.
 
 # Prerequisites
 
