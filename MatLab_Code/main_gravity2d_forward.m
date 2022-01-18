@@ -1,17 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% A wavenumber-domain approach for quasi 3-D forward modeling of gravity anomalies and gradients.
+% Author: Lianghui Guo (guolh@cugb.edu.cn), Yatong Cui
+% Organization: China University of Geosciences (Beijing), School of Geophysics and Information Technology
+% Compiled version: MATLAB R2017b
+% Reference:
+%       Cui Y T, Guo L H. A wavenumber-domain iterative approach for rapid 3-D imaging
+%       of gravity anomalies and gradients. IEEE Access, 2019, 7: 34179-34188.
 % Description of the input parameters: 
 %       infile_msh: model mesh file
 %       infile_mod: model density file, unit: g/cm^3
 % Description of the output parameters: 
 %       outfile_Uz: calculated anomaly
-% Description of primary identifiersï¼š
+% Description of primary identifiers£º
 %       x, y: x, y verctor
 %       nx, ny: number of points in x and y directions
 %       dx, dy: spacing in x and y directions
 %       npts: extension points
-%       pï¼šdensity distribution, unit: g/cm^3
-%       Gï¼šgravitational constant, unit: m^3/kgÂ·s^2
-%       pexï¼šdensity distribution after extension
-%       Uzï¼šgravity anomaly, unit: mGal
+%       p£ºdensity distribution, unit: g/cm^3
+%       G£ºgravitational constant, unit: m^3/kg¡¤s^2
+%       pex£ºdensity distribution after extension
+%       Uz£ºgravity anomaly, unit: mGal
 % Description of subroutine function: 
 %       readmsh.m: read mesh file
 %       readmod.m: read model file
