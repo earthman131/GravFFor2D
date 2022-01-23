@@ -6,7 +6,7 @@ Developed by Lianghui Guo and Yatong Cui.
 
 # Principles
 
-GravFFor2D is a Matlab code for gravity wavenumber-domain forward modeling of a 3D mesh model. Suppose that the 3D density model consists of several flat layers with the same thickness from top to bottom, and each layer is composed of a set of regularly arranged vertical prisms with the same size but different values of density . GravFFor2D is suitable for fast forward modeling of large-scale models and can directly calculate the anomalies of the observational surface. 
+GravFFor2D is a Matlab code for gravity forward modeling of a 3D mesh model in the wavenumber domain. Suppose that the 3D density model consists of several flat layers with the same thickness from top to bottom, and each layer is composed of a set of regularly arranged vertical prisms with the same size but different values of density . GravFFor2D is suitable for fast forward gravity modeling due to a large-scale model and can directly calculate the anomalies and gradients of the flat observational surface.
 
 # Prerequisites
 
